@@ -1,0 +1,2 @@
+insert into usuarios(usuario,password,rol) values ('user','$2a$12$XGVTmvE.JwHsF71tnclkf.cUGsAAndmjSOL9LVtmI1AqZ2WHoxLqm','ROLE_ADMIN');
+insert into usuarios(usuario,password,rol) values ('admin','$hgd$jf%GVTmvE.JFGFGDHdmgnclkf.cUgdHDFHdfGGDHGSHSGfdsdgsgHshs','ROLE_USER')
